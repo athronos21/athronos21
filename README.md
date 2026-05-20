@@ -10,23 +10,36 @@ Full Stack & Mobile Developer | VB.NET | Python | Android | Problem Solver
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+%26+Mobile+Developer;VB.NET+%7C+Python+%7C+Android+Developer;Building+Desktop%2C+Web+%26+Mobile+Apps;IT+Student+%40+Haramaya+University%2C+Ethiopia;Telegram+Bot+%26+Automation+Builder;Always+Learning+%26+Improving+%F0%9F%9A%80" />
 </p>
 
+<p align="center">
+  <a href="https://jazzy-rugelach-b34fd6.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit Now-00F7FF?style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="mailto:athronos21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/athronos21">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge"/>
+</p>
+
 ---
 
 # 🧠 About Me
 
-I am a dedicated **IT student at Haramaya University, Ethiopia** focused on building **real-world, functional applications** through hands-on development.
+I'm a dedicated **IT student at Haramaya University, Ethiopia** focused on building **real-world, functional applications** through hands-on development.
 
 I specialize in:
 
 ✔ Full Stack Web Development (HTML, CSS, JavaScript, React, NodeJS)  
-✔ Desktop Application Development (VB.NET + Windows Forms)  
+✔ Desktop Application Development (VB.NET + Windows Forms + GDI+)  
 ✔ Android Mobile App Development (Java)  
 ✔ Python Automation & Telegram Bot Development  
 ✔ Clean Code, Event-driven Programming & Maintainable Systems  
 
-I enjoy transforming ideas into **practical, user-focused solutions** — from classic games to bots and mobile apps.
+My approach is simple: **learn by building**. Every project I take on is an opportunity to push my skills further and deliver something that actually works for real people.
 
-> *"Consistency builds mastery."*
+> *"I don't just learn — I build, improve, and deliver."*
 
 ---
 
@@ -35,7 +48,7 @@ I enjoy transforming ideas into **practical, user-focused solutions** — from c
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp" />
+<img src="https://skillicons.dev/icons?i=js,python,java,cpp,html,css" />
 <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
@@ -44,18 +57,18 @@ I enjoy transforming ideas into **practical, user-focused solutions** — from c
 ### 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" />
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
 <img src="https://img.shields.io/badge/UI-Responsive%20Design-blueviolet?style=for-the-badge"/>
 </p>
 
 ---
 
-### ⚙ Backend
+### ⚙ Backend & Automation
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
-<img src="https://img.shields.io/badge/API-RESTful-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Telegram-Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/API-RESTful-green?style=for-the-badge"/>
 </p>
 
 ---
@@ -70,11 +83,10 @@ I enjoy transforming ideas into **practical, user-focused solutions** — from c
 
 ---
 
-### 🗄 Database
+### 🗄 Database & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-<img src="https://img.shields.io/badge/Design-Schema_Architecture-orange?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,visualstudio,figma,postman" />
 </p>
 
 ---
@@ -91,19 +103,11 @@ I enjoy transforming ideas into **practical, user-focused solutions** — from c
 
 ---
 
-### 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,figma,postman" />
-</p>
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=athronos21&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athronos21&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=athronos21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111827&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athronos21&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -124,9 +128,7 @@ I enjoy transforming ideas into **practical, user-focused solutions** — from c
 
 🔗 GitHub: [VB.NET Snake Game](https://github.com/athronos21/VB.NET-Snake-Game)
 
-A fully functional classic **Snake game** built with Visual Basic .NET and Windows Forms — featuring 3 difficulty levels, 3 game modes, progressive speed increase, and high score tracking.
-
-Includes **Full Border walls (GDI+ custom drawing), Block obstacle mode, Full Open wrap-around mode, animated directional sprites, and session-based high score detection**.
+A fully functional classic **Snake game** rebuilt from scratch with Visual Basic .NET and Windows Forms. Features **3 difficulty levels**, **3 game modes** (Border Walls / Block Obstacles / Open Wrap), progressive speed scaling, animated directional sprites, and session-based high score tracking — all rendered with custom GDI+ graphics.
 
 **Tech Stack**
 
@@ -134,6 +136,7 @@ Includes **Full Border walls (GDI+ custom drawing), Block obstacle mode, Full Op
 <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows_Forms-.NET_Framework-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/GDI+-Custom_Graphics-gray?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Type-Desktop-blue?style=for-the-badge"/>
 </p>
 
 ---
@@ -142,7 +145,23 @@ Includes **Full Border walls (GDI+ custom drawing), Block obstacle mode, Full Op
 
 🔗 GitHub: [TGBOT2026](https://github.com/athronos21/TGBOT2026)
 
-Automated **Telegram bot** built with Python for automation and messaging tasks.
+A Python-powered **Telegram automation bot** built for messaging workflows, task automation, and productivity scripts. Demonstrates practical use of the Telegram Bot API — including command handling, message triggers, and automated responses.
+
+**Tech Stack**
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" height="30"/>
+<img src="https://img.shields.io/badge/Telegram-Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Type-Automation-green?style=for-the-badge" height="30"/>
+</p>
+
+---
+
+## ⚡ 3. Telegram Bot
+
+🔗 GitHub: [TGBOT](https://github.com/athronos21/TGBOT)
+
+Foundation Python Telegram automation project — scripted command responses, event-driven message handling, and workflow automation. The groundwork for scalable bot architecture.
 
 **Tech Stack**
 
@@ -153,24 +172,10 @@ Automated **Telegram bot** built with Python for automation and messaging tasks.
 
 ---
 
-## 🤖 3. Telegram Bot
-
-🔗 GitHub: [TGBOT](https://github.com/athronos21/TGBOT)
-
-Python-based Telegram automation project.
-
-**Tech Stack**
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" height="30"/>
-</p>
-
----
-
 # 🎯 Current Focus
 
 🚀 Building **Android mobile applications** with Java  
-⚙ Developing **full-stack web platforms** (HTML, CSS, JS, React, NodeJS)  
+⚙ Developing **full-stack web platforms** (React, NodeJS, REST APIs)  
 🎮 Expanding **desktop application development** with VB.NET  
 🤖 Creating **Python automation tools & Telegram bots**  
 
@@ -181,21 +186,18 @@ Python-based Telegram automation project.
 ✔ Full Stack Developer Roles (Frontend + Backend)  
 ✔ Android App Development Projects  
 ✔ Desktop Application Development (VB.NET / Java)  
-✔ Internship & Entry-Level Software Engineering Roles  
+✔ Python Automation & Bot Development  
 ✔ Remote & On-site Opportunities  
+✔ Internship & Entry-Level Positions  
 
 ---
 
 # 📫 Connect With Me
 
-📧 Email  
-[athronos21@gmail.com](mailto:athronos21@gmail.com)
-
-🎓 University  
-[Haramaya University, Ethiopia](https://www.haramaya.edu.et)
-
-💻 GitHub  
-[https://github.com/athronos21](https://github.com/athronos21)
+🌐 Portfolio: [jazzy-rugelach-b34fd6.netlify.app](https://jazzy-rugelach-b34fd6.netlify.app)  
+📧 Email: [athronos21@gmail.com](mailto:athronos21@gmail.com)  
+🐙 GitHub: [github.com/athronos21](https://github.com/athronos21)  
+🎓 University: [Haramaya University, Ethiopia](https://www.haramaya.edu.et)  
 
 ---
 
@@ -210,6 +212,10 @@ I believe in:
 ✔ Continuous improvement through building and learning  
 ✔ Staying consistent even when progress is slow  
 
-> *"I don't just learn — I build, improve, and deliver."*
+> *"Consistency builds mastery."*
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=athronos21&label=Profile+Views&color=00F7FF&style=flat"/>
+</p>
