@@ -14,6 +14,9 @@ Full Stack & Mobile Developer | VB.NET | Python | Android | Problem Solver
   <a href="https://jazzy-rugelach-b34fd6.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-Visit Now-00F7FF?style=for-the-badge&logoColor=white"/>
   </a>
+  <a href="https://t.me/Athronos" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
   <a href="mailto:athronos21@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -196,6 +199,7 @@ Foundation Python Telegram automation project — scripted command responses, ev
 
 🌐 Portfolio: [jazzy-rugelach-b34fd6.netlify.app](https://jazzy-rugelach-b34fd6.netlify.app)  
 📧 Email: [athronos21@gmail.com](mailto:athronos21@gmail.com)  
+✈️ Telegram: [@Athronos](https://t.me/Athronos)  
 🐙 GitHub: [github.com/athronos21](https://github.com/athronos21)  
 🎓 University: [Haramaya University, Ethiopia](https://www.haramaya.edu.et)  
 
