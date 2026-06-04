@@ -3,7 +3,7 @@ Hi 👋, I'm Athronos Nythor
 </h1>
 
 <h3 align="center">
-Full Stack & Mobile Developer | VB.NET | Python | Android | Problem Solver
+Full Stack & Mobile App Developer | VB.NET | Python | Android | Problem Solver
 </h3>
 
 <p align="center">
